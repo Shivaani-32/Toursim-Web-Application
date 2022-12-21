@@ -8,5 +8,9 @@ PhpMyAdmin
 MySQL
 Triggers used
 
-Book a package and cancel booking.
+Functions
+
+1.Book a package 
+
+2.Cancel Booking
 

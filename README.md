@@ -1,11 +1,11 @@
 # Toursim-Web-Application
 Tourvelo: Tourism Website
-HTML
-CSS
-PHP
-Js
-PhpMyAdmin
-MySQL
+HTML,
+CSS,
+PHP,
+Js,
+PhpMyAdmin,
+MySQL,
 Triggers used
 
 Functions
